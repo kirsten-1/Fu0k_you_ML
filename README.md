@@ -1,8 +1,12 @@
+lsvirtualenv [-blh]
+  -b -- brief mode
+  -l -- long mode
+  -h -- this help message
+6.1.1
 # Fu0k_you_ML
 
 > 系统学习机器学习与 NLP/LLM 知识体系，从 CS229 到现代深度学习。
 
-**目标**：8-9 月秋招 / 英伟达 AI Infra 岗  
 **原则**：概念 → 原理 → 细节 → 面试能讲
 
 ---
